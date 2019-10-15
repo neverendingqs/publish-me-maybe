@@ -11,10 +11,10 @@
     "test": "mocha --globals name"
   },
   "dependencies": {
-    "npm": "2.x.x",
-    "npmlog": "1.x.x",
-    "semver": "4.x.x",
-    "nopt": "3.x.x"
+    "npm": "6.x.x",
+    "npmlog": "4.x.x",
+    "semver": "6.x.x",
+    "nopt": "4.x.x"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "CI"
   ],
   "devDependencies": {
-    "mocha": "^2.4.5"
+    "mocha": "^6.2.1"
   },
   "author": "Carlos Manzanares <carlos.manzanares@gmail.com>",
   "license": "MIT"
