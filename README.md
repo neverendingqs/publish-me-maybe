@@ -1,5 +1,8 @@
 # publish-me-maybe
 
+[![CircleCI](https://circleci.com/gh/neverendingqs/publish-me-maybe.svg?style=svg)](https://circleci.com/gh/neverendingqs/publish-me-maybe)
+[![npm version](https://badge.fury.io/js/publish-me-maybe.svg)](https://badge.fury.io/js/publish-me-maybe)
+
 _Fork of https://github.com/cmanzana/node-publish. Forked due to user inactivity on GitHub._
 
 npm module to automate publishing of npm modules.
