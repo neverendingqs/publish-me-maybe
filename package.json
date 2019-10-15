@@ -8,6 +8,7 @@
     "publish": "./bin/publish.js"
   },
   "scripts": {
+    "deploy": "publish",
     "test": "mocha --globals name"
   },
   "dependencies": {
@@ -27,7 +28,8 @@
     "CI"
   ],
   "devDependencies": {
-    "mocha": "^6.2.1"
+    "mocha": "^6.2.1",
+    "publish-me-maybe": "^1.0.0"
   },
   "author": "neverendingqs",
   "license": "MIT"
