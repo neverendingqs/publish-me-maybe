@@ -43,7 +43,7 @@ if (options.help) {
      --version   Print the version of publish.
      --help      Print this help.
 
-     Please report bugs!  https://github.com/cmanzana/node-publish/issues
+     Please report bugs!  https://github.com/neverendingqs/publish-me-maybe/issues
 
      */
     }.toString().split(/\n/).slice(1, -2).join('\n'));
