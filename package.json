@@ -1,6 +1,6 @@
 {
   "name": "publish-me-maybe",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "npm auto publishing of your modules",
   "main": "index.js",
   "homepage": "https://github.com/neverendingqs/publish-me-maybe",
