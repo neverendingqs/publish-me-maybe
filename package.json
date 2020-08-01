@@ -28,8 +28,8 @@
     "CI"
   ],
   "devDependencies": {
-    "mocha": "^8.0.1",
-    "publish-me-maybe": "^1.0.5"
+    "mocha": "^8.1.0",
+    "publish-me-maybe": "^1.0.6"
   },
   "author": "neverendingqs",
   "license": "MIT"
