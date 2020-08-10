@@ -28,7 +28,7 @@
     "CI"
   ],
   "devDependencies": {
-    "mocha": "^8.1.0",
+    "mocha": "^8.1.1",
     "publish-me-maybe": "^1.0.6"
   },
   "author": "neverendingqs",
