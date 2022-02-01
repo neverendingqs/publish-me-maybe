@@ -1,6 +1,6 @@
 {
   "name": "publish-me-maybe",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "npm auto publishing of your modules",
   "main": "index.js",
   "homepage": "https://github.com/neverendingqs/publish-me-maybe",
@@ -14,7 +14,7 @@
   "dependencies": {
     "nopt": "5.x.x",
     "npm": "6.14.15",
-    "npmlog": "5.x.x",
+    "npmlog": "6.x.x",
     "semver": "7.x.x"
   },
   "repository": {
@@ -28,8 +28,8 @@
     "CI"
   ],
   "devDependencies": {
-    "mocha": "^9.1.2",
-    "publish-me-maybe": "^1.0.7"
+    "mocha": "^9.2.0",
+    "publish-me-maybe": "^1.0.8"
   },
   "author": "neverendingqs",
   "license": "MIT"
